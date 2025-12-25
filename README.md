@@ -56,8 +56,8 @@
 代码太垃圾了，拿不出手，大家提提问题反馈，优化好一点再放出来，二开也舒服。
 
 
-安装包在文件里，请登录世界级同性交友网站自行领取：
-https://github.com/libn-net/open_tapnow_lovart
+请登录世界级同性交友网站自行领取：
+https://github.com/libn-net/open_tapnow_lovart/releases/tag/pre-1.0.0
 
 ![alt text](4ccc4d4f29129055711c0a42010de6b0.png)
 ![alt text](503eb1ce5a373112b3461debf9052d16.png)
