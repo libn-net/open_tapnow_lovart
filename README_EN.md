@@ -15,26 +15,26 @@ While those are excellent products worth using, they can be expensive, data isn'
 ## Features
 
 #### v1.0.1231-pre
-✅ **1. Workflows:** Batch generation of marketing images, marketing videos, AI manga, and AI short dramas.
-✅ **2. Image Cards:** Supports multiple excellent models like Nano Banana, MJ, etc.
-✅ **3. Video Cards:** Supports top-tier models like Sora2, Veo3, Kling, etc.
-✅ **4. Text Cards:** Supports Gemini3 Pro, GPT-5.2, and other leading models.
-✅ **5. Table Cards:** Data collection, updates, and analysis.
-✅ **6. Deployment:** Supports both Cloud Managed (kardo.1mx.cn) and Local Installation.
-✅ **7. Flexible Chaining:** Multi-card linking to create rich creative content. Simpler than N8N, more direct than Coze.
+- ✅ **1. Workflows:** Batch generation of marketing images, marketing videos, AI manga, and AI short dramas.
+- ✅ **2. Image Cards:** Supports multiple excellent models like Nano Banana, MJ, etc.
+- ✅ **3. Video Cards:** Supports top-tier models like Sora2, Veo3, Kling, etc.
+- ✅ **4. Text Cards:** Supports Gemini3 Pro, GPT-5.2, and other leading models.
+- ✅ **5. Table Cards:** Data collection, updates, and analysis.
+- ✅ **6. Deployment:** Supports both Cloud Managed (kardo.1mx.cn) and Local Installation.
+- ✅ **7. Flexible Chaining:** Multi-card linking to create rich creative content. Simpler than N8N, more direct than Coze.
 
 #### v1.1.2026 (Estimated Release: 2026.01.31)
-⌛️ **1. Model Vendor Comparison:** Choose cheaper and more stable model providers to lower costs.
-⌛️ **2. New Integrations:** Support for excellent models from Hailuo (MiniMax) and ByteDance.
-⌛️ **3. Advanced Editing:** Multi-image and video editing capabilities.
-⌛️ **4. Professional Directing:** Lens settings, storyboarding, and scripting capabilities.
-⌛️ **5. Audio Cards:** Music, vocals, and sound effect generation.
-✅ **6. UX:** Multi-language support, Light theme, and System theme synchronization.
-✅ **7. System:** Software upgrade and update capabilities.
-✅ **8. Tools:** Web search, targeted crawling, video splitting, and custom tool integration.
-⌛️ **9. Digital Humans:** Real-time API calls and scheduled tasks for digital avatars.
-⌛️ **10. Templates:** Default workflows for custom batch short dramas and manga.
-⌛️ **11. Prompt Engineering:** Advanced prompting capabilities to quickly generate viral videos.
+- ⌛️ **1. Model Vendor Comparison:** Choose cheaper and more stable model providers to lower costs.
+- ⌛️ **2. New Integrations:** Support for excellent models from Hailuo (MiniMax) and ByteDance.
+- ⌛️ **3. Advanced Editing:** Multi-image and video editing capabilities.
+- ⌛️ **4. Professional Directing:** Lens settings, storyboarding, and scripting capabilities.
+- ⌛️ **5. Audio Cards:** Music, vocals, and sound effect generation.
+- ✅ **6. UX:** Multi-language support, Light theme, and System theme synchronization.
+- ✅ **7. System:** Software upgrade and update capabilities.
+- ✅ **8. Tools:** Web search, targeted crawling, video splitting, and custom tool integration.
+- ⌛️ **9. Digital Humans:** Real-time API calls and scheduled tasks for digital avatars.
+- ⌛️ **10. Templates:** Default workflows for custom batch short dramas and manga.
+- ⌛️ **11. Prompt Engineering:** Advanced prompting capabilities to quickly generate viral videos.
 
 ## Showcase
 
