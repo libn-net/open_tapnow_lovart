@@ -1,102 +1,145 @@
-# Open TapNow & Lovart
+# KardoFlow: Open TapNow & Lovart
 
-English | [简体中文](README.md)
+[English](README_EN.md) | [Simplified Chinese](README.md)
 
-**KardoFlow**: An open-source alternative to TapNow & Lovart.
+KardoFlow is the open-source version of TapNow & Lovart. Both are excellent and worth using products, but they are a bit expensive. The subscription model is insufficient, and you often need to top up points. Therefore, we developed this alternative product. Recharge as you go, pay only for what you use. Enterprise users can white-label and act as agents, while ordinary users can independently access cheap and stable upstream API channels. It supports Windows and Mac installation versions, cloud-hosted versions, Mini Programs, Apps, and H5. It also supports the access and distribution of upstream short drama orders!
 
-While those are excellent products worth using, they can be expensive, data isn't stored locally, and privacy risks exist. I built this project in my spare time to address these issues. Technical discussions are welcome!
+#### Not Fake Open Source!
+#### Not Fake Open Source!
+#### Not Fake Open Source!
+#### The code is currently a bit messy and I'm hesitant to show it. Everyone, please raise issues and provide feedback. We will open source it after optimizing it a bit. Secondary development will also be more comfortable then.
+##### If you are an individual creator, we provide you with orders and the open-source product.
+##### If you are a startup, feel free to repackage and sell it. We suggest white-labeling (the price is not expensive). We are responsible for providing you with upstream orders (short dramas, commercials, short videos, marketing graphics and text, ad materials), products, training, and after-sales service.
+##### In the AI era, products themselves will never have core competitiveness. Mastering the supply end and consumption end of the supply chain is the core competitiveness. "One-person companies" without team support are merely tools for a few to harvest leeks. Everyone should keep their eyes open.
 
-**NOT FAKE OPEN SOURCE!**
-**NOT FAKE OPEN SOURCE!**
-**NOT FAKE OPEN SOURCE!**
+## Feature Introduction
 
-*(Honesty Alert: The code is currently a mess and I'm too embarrassed to show it all just yet. Please provide feedback and raise issues. Once optimized, I'll fully open it up to make secondary development a breeze.)*
+#### Version 1.0.1231-pre
+- ✅ 1. Workflow: Support batch generation of marketing images, marketing videos, AI comics, and AI short dramas.
+- ✅ 2. Image Card: Support multiple excellent models such as Nano Banana/MJ/etc.
+- ✅ 3. Video Card: Support multiple excellent models such as Sora2, Veo3, Kling, Hailuo, Minimax, etc.
+- ✅ 4. Text Card: Support multiple excellent models such as Gemini3 Pro, GPT-5.2, etc.
+- ✅ 5. Table Card: Support data collection and updates, support data analysis.
+- ✅ 6. Support cloud-hosted version kardo.1mx.cn and local installation version.
+- ✅ 7. Support multiple card links to form various rich creative content. Simpler than N8N, more direct than Coze.
 
-## Features
+#### Version 1.1.2026 - Expected release on 2026.02.02 (Code release expected on March 10th after the New Year, many compatibility issues need to be fixed)
+- ✅ 1. Add multiple model supplier comparisons. Users can choose cheap and stable model suppliers to reduce costs.
+- ✅ 2. Add support for Hailuo and several excellent models from ByteDance.
+- ✅ 3. Add multi-image editing and video editing capabilities.
+- ✅ 4. Add professional lens settings, storyboard capabilities, and script capabilities.
+- ✅ 5. Add Sound Card: Support music, vocal, and sound effect generation.
+- ✅ 6. Add software upgrade and update capabilities.
+- ✅ 7. Add tool capabilities, support custom tool capabilities such as web search, targeted collection, and video splitting.
+- ✅ 8. Add digital human functions, live streaming, and other multi-scenario capabilities.
+- ⌛️ 9. Develop default workflow capabilities such as custom batch short dramas and comics.
+- ✅ 10. Add excellent prompt word templates to quickly generate various types of fan-attracting videos.
 
-#### v1.0.1231-pre
-- ✅ **1. Workflows:** Batch generation of marketing images, marketing videos, AI manga, and AI short dramas.
-- ✅ **2. Image Cards:** Supports multiple excellent models like Nano Banana, MJ, etc.
-- ✅ **3. Video Cards:** Supports top-tier models like Sora2, Veo3, Kling, etc.
-- ✅ **4. Text Cards:** Supports Gemini3 Pro, GPT-5.2, and other leading models.
-- ✅ **5. Table Cards:** Data collection, updates, and analysis.
-- ✅ **6. Deployment:** Supports both Cloud Managed (kardo.1mx.cn) and Local Installation.
-- ✅ **7. Flexible Chaining:** Multi-card linking to create rich creative content. Simpler than N8N, more direct than Coze.
+#### Version 1.2.2603 - Expected release on 2026.03.10 (Code expected to be released on April 10th)
+- ⌛️ 1. Guarantee stable and cheap official API model channel access. Support non-official channel access. Users can freely choose channels according to urgency to reduce costs.
+- ⌛️ 2. Open accessed stable APIs for users with R&D capabilities to call independently, providing complete billing and logging capabilities.
+- ⌛️ 3. Capability to generate up to 100 cards at a time, including images, audio, video, etc., greatly improving the probability of drawing good cards.
+- ⌛️ 4. Add Grok Image Video adult-level content generation (please comply with local laws, be careful not to spread).
+- ⌛️ 5. Add asset library capabilities, including common graphics and text, audio and video, media accounts, etc. Support custom asset categories and attributes, making user assets richer.
+- ⌛️ 6. Support access to hardware Xiaozhi, breaking through physical limits, an AI super traffic entrance.
+- ⌛️ 7. Support direct order issuance on the platform (short dramas, commercials, short videos, marketing graphics and text, ad materials), and the ability for creators to directly accept orders, guaranteeing the income of excellent creators.
+- ⌛️ 8. Support custom OEM, domain name, brand, Logo, copywriting, payment, and other information all customizable.
 
-#### v1.1.2026 (Estimated Release: 2026.01.31)
-- ⌛️ **1. Model Vendor Comparison:** Choose cheaper and more stable model providers to lower costs.
-- ⌛️ **2. New Integrations:** Support for excellent models from Hailuo (MiniMax) and ByteDance.
-- ⌛️ **3. Advanced Editing:** Multi-image and video editing capabilities.
-- ⌛️ **4. Professional Directing:** Lens settings, storyboarding, and scripting capabilities.
-- ⌛️ **5. Audio Cards:** Music, vocals, and sound effect generation.
-- ✅ **6. UX:** Multi-language support, Light theme, and System theme synchronization.
-- ✅ **7. System:** Software upgrade and update capabilities.
-- ✅ **8. Tools:** Web search, targeted crawling, video splitting, and custom tool integration.
-- ⌛️ **9. Digital Humans:** Real-time API calls and scheduled tasks for digital avatars.
-- ⌛️ **10. Templates:** Default workflows for custom batch short dramas and manga.
-- ⌛️ **11. Prompt Engineering:** Advanced prompting capabilities to quickly generate viral videos.
+## Product Showcase
 
-## Showcase
+Through an infinite canvas, using cards as results and connecting lines as creative ideas, without the need for complex thinking and professional skills, simple connecting lines complete the entire creation process. You can also share with others to earn income (Still struggling with Coze? Try this).
 
-Achieve high-quality AI short dramas, AI movies, e-commerce marketing images, sales videos, and livestreaming plans by linking cards.
-**Intelligent Agent Cards include:** Text, Image, Table, Audio, Video, and Analysis.
+<img width="1280" height="966" alt="Image" src="https://github.com/user-attachments/assets/25dfbc6e-a9ee-4a62-958e-e62b940a7a0c" />
 
-![alt text](4d60e2c420997e44f8ff94e2243de508.png)
+<img width="1280" height="883" alt="Image" src="https://github.com/user-attachments/assets/cc20b824-a9a7-4e46-9865-c72a6db450e9" />
 
-### AI Short Dramas & AI Movies (Creation Time: ~15 mins)
+<img width="1280" height="967" alt="Image" src="https://github.com/user-attachments/assets/cdff7a79-2462-44e5-bf7c-61983142f26e" />
+
+<img width="1280" height="616" alt="Image" src="https://github.com/user-attachments/assets/90e498bc-c123-4f09-bb79-715d0b00c7e3" />
+
+<img width="1280" height="689" alt="Image" src="https://github.com/user-attachments/assets/36da7cfe-9141-4e46-9727-e3cac27a8e8d" />
+
+<img width="1157" height="1280" alt="Image" src="https://github.com/user-attachments/assets/8786265e-b4aa-4cc9-a435-6219eeb115f7" />
+
+<img width="1138" height="1280" alt="Image" src="https://github.com/user-attachments/assets/48642989-b84e-4267-8455-1376ffd00f46" />
+
+<img width="1280" height="1090" alt="Image" src="https://github.com/user-attachments/assets/88f62650-7471-42f6-8dbe-161f1316b219" />
+
+<img width="1280" height="967" alt="Image" src="https://github.com/user-attachments/assets/58c0ce52-6493-43ef-9450-af2f996d7034" />
+
+<img width="769" height="1280" alt="Image" src="https://github.com/user-attachments/assets/f656d367-0a7b-4a40-8052-8b8c8bab889b" />
+
+<img width="1280" height="963" alt="Image" src="https://github.com/user-attachments/assets/7e19d77e-aa91-4315-a0b4-54fe86f9ae24" />
+
+<img width="1280" height="504" alt="Image" src="https://github.com/user-attachments/assets/c1ed5491-f5dd-4b0b-93c2-fa53888a8730" />
+
+<img width="1280" height="682" alt="Image" src="https://github.com/user-attachments/assets/2983aab1-3e37-4ffc-8723-9b3c4bde3c38" />
+
+
+### Also supports Mini Programs, etc.
+<img width="1280" height="2774" alt="Image" src="https://github.com/user-attachments/assets/c2331784-beb8-4a75-a111-d48fbf6bca37" />
+
+<img width="1280" height="2774" alt="Image" src="https://github.com/user-attachments/assets/e840698c-689e-44ed-a284-7dcf511bcae6" />
+
+<img width="1280" height="2774" alt="Image" src="https://github.com/user-attachments/assets/89da4fc2-fa2b-410c-b1ff-f48309a81544" />
+
+### More Scenarios: AI Short Dramas & AI Movies (Creation Duration: 15 Minutes)
 ![alt text](64cbaed552938f934a114cf098786d84.jpg)
 <video controls src="https://github.com/user-attachments/assets/a7499fd3-0a50-4b7b-b1a7-6067284697da" title="Title"></video>
 
-### E-commerce Product Images (Creation Time: ~1 min)
+### E-commerce Product Images (Creation Duration: 1 Minute)
 ![alt text](0ea40210ad30d8f26778bf2d43b0d379.png)
-### Marketing Sales Images (Creation Time: ~1.5 mins)
+### Marketing Product Images (Creation Duration: 1.5 Minutes)
 ![alt text](9e96a4de0123a949240b893b377d5af8.png)
-### Sales Videos (Creation Time: ~1 min)
+### Product Video (Creation Duration: 1 Minute)
 ![alt text](1a08885c5db841f120ce431a5fd5d4f2.png)
 <video controls src="https://github.com/user-attachments/assets/4d2b42dc-b640-44d8-84f6-de224c766abf" title="Title"></video>
 
-- **And much more waiting for you to explore!**
-- Viral TikTok transition videos for low-follower accounts...
-- Natural dancing videos...
-- "Be water my friend" scenarios, and more...
+- And more waiting for you to explore~
+- Douyin low-fan high-like transition videos etc...
+- Sexy beauty natural dancing videos etc...
+- Be water my friend scenarios etc...
+
 
 ## How We Make Money
-- **Model Aggregation:** Revenue from stable model supplier integrations helps cover development and operation costs.
-- **Cloud Managed Version:** Licensing, white-labeling, and maintenance services. White-label users can request custom features.
-- **Content Creation:** We generate and publish our own high-quality AI dramas and marketing videos to platforms for creator rewards.
-- **Enterprise Services:** Custom integration and R&D for enterprise clients.
+- Upstream orders from multiple distribution platforms such as Hongguo, guaranteed revenue sharing for signed creators.
+- Cloud-hosted version, supporting OEM white-labeling and agent recharge.
+- A small rebate from official/non-official model API suppliers.
+- Some demands for TVC commercials, short videos, graphics and text, and scripts are given to platform creators.
+- We also generate excellent AI short dramas, AI comics, and marketing videos ourselves, release them to the platform, and earn corresponding rewards.
+- Customized integration and R&D for enterprise customers.
+
+#### Internal testing accumulated more than 10,000 users in 2 weeks. Thank you very much for the support of group members. We provide good orders, products, services, training, and after-sales. Everyone earns income together.
+#### The product can still maintain R&D and operation costs. Some friends have donated. No one's money comes easily. Thank you everyone here.
 
 ### Tech Stack
-- **Backend:** Python FastAPI (WebSocket for event streaming)
-- **Workflow Engine:** LangGraph (Agent Loops / Serial & Parallel / Checkpoints)
-- **Local Database:** SQLite + sqlite-vss (Lightweight RAG)
-- **Frontend:** React + Vite + React Flow (Canvas / DAG)
+- Backend: Python FastAPI (Event stream using WebSocket)
+- Process Engine: LangGraph (Agent Loop / Serial & Parallel / Checkpoint)
+- Local Database: SQLite + sqlite-vss (Lightweight RAG)
+- Frontend: React + Vite + React Flow (Canvas / DAG)
 
 ### Engineering Architecture
-- **desktop**
-  - **backend:** Desktop backend (FastAPI) & App Launcher (pywebview)
-    - `app.py`: REST/WS + Static Hosting + SQLite Persistence (workflows/nodes/edges)
-    - `launch_desktop.py`: One-click launch (dev/production), runs backend in a sub-thread
-    - `pyproject.toml`: uv project config (provides desktop-backend/desktop-app/desktop-dev scripts)
-    - `data/supra.db`: Local SQLite DB (auto-created on run)
-  - **frontend:** Desktop frontend (React + Vite + React Flow)
-    - `src/App.tsx`: Canvas + Run Events + Right-side Property Panel
-    - `src/Canvas.tsx`: Node categories, connection cutting/re-linking, toolbar, resizing
-    - `src/Inspector.tsx`: Node property editing
-    - `vite.config.ts`: Dev proxy and build output to `../dist`
+- desktop
+  - backend: Desktop backend (FastAPI) and application launcher (pywebview)
+    - app.py: REST/WS + Static Hosting + SQLite Persistence (workflows/nodes/edges)
+    - launch_desktop.py: One-click launch (dev/production), sub-thread running backend
+    - pyproject.toml: uv project configuration (provides desktop-backend/desktop-app/desktop-dev scripts)
+    - data/supra.db: Local SQLite database (created automatically on run)
+  - frontend: Desktop frontend (React + Vite + React Flow)
+    - src/App.tsx: Canvas + Run Events + Right Property Panel
+    - src/Canvas.tsx: Three types of nodes, connection cut/reconnect, toolbar, size adjustment
+    - src/Inspector.tsx: Node attribute editing
+    - vite.config.ts: Development proxy and build output to `../dist`
 
-**NOT FAKE OPEN SOURCE!**
-**NOT FAKE OPEN SOURCE!**
-**NOT FAKE OPEN SOURCE!**
 
-Again, the code is messy right now. Please test it, break it, and give feedback. I'll polish it before the full source release to ensure a smooth developer experience.
+Please log in to the world-class "same-sex dating website" (GitHub) to claim it yourself:
+https://github.com/libn-net/open_tapnow_lovart/releases/tag/KardoFlow-1.1.2026
 
-**Download from the world's largest developer community (GitHub):**
-https://github.com/libn-net/open_tapnow_lovart/releases/tag/pre-1.0.0
+Domestic users download:
+kardoflow.com
 
-## Community
-**Note:** KardoFlow Technical Discussion
-*For usage and technical exchange only. No ads or marketing spam, please.*
+
+## Exchange Group: Remarks (Kardo Order Taking, Product Trial, White Label Agent, Technical Exchange, Product Customization, Model API Access; please send with remarks according to needs)
+## Only for use and technical exchange, please do not send advertisements and marketing.
 
 ![alt text](503eb1ce5a373112b3461debf9052d16.png)
-![alt text](8a1714ab2395ac4b5cc8e5756663289a.jpg)
